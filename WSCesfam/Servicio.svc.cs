@@ -39,25 +39,28 @@ namespace WSCesfam
             }
         }
 
-        public bool CrearMedicamento(int id, string nombre, string nomGenerico, DateTime fec_vencimiento, string laboratorio)
+        public bool CrearMedicamento(decimal id, string nombre, string nomGenerico, string fec_vencimiento, string laboratorio)
         {
-            Medicamento m = new Medicamento()
+            try
             {
-                Cod_Medicamento = id,
-                Nombre_Medicamento = nombre,
-                Nombre_Generico = nomGenerico,
-                Fec_Vencimiento = fec_vencimiento,
-                Laboratorio = laboratorio
-            };
+                Medicamento m = new Medicamento()
+                {
+                    Cod_Medicamento = id,
+                    Nombre_Medicamento = nombre,
+                    Nombre_Generico = nomGenerico,
+                    Fec_Vencimiento = fec_vencimiento,
+                    Laboratorio = laboratorio
+                };
 
-            if (m.Create())
-            {
+                m.Create();
                 return true;
+
             }
-            else
+            catch (Exception ex)
             {
                 return false;
             }
+
         }
 
         /*Metodo Crear Ususario*/
@@ -116,7 +119,7 @@ namespace WSCesfam
 
         }
 
-        
+
 
         public Usuario ReadUser(decimal cod)
         {

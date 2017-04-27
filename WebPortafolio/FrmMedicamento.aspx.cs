@@ -19,13 +19,9 @@ namespace WebPortafolio
         {
             try
             {
-                Medicamento m = new Medicamento();
-                m.Cod_Medicamento = int.Parse(txtCod.Text);
-                m.Nombre_Medicamento = txtNomMedicamento.Text;
-                m.Nombre_Generico = txtNomGenerico.Text;
-                m.Fec_Vencimiento = DateTime.Parse(txtFechaVenci.Text);
-                m.Laboratorio = txtLaboratorio.Text;
-
+                ServiceCesfam.ServicioClient service = new ServiceCesfam.ServicioClient();
+                service.CrearMedicamento(decimal.Parse(txtCod.Text), txtNomMedicamento.Text, txtNomGenerico.Text, txtFechaVenci.Text,txtLaboratorio.Text);
+                service.Close();
                 lblMessage.Text = "Creado";
 
             }
@@ -33,6 +29,31 @@ namespace WebPortafolio
             {
                 lblMessage.Text = "No Creado";
             }
+        }
+
+        protected void btnBuscar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Medicamento m = new Medicamento();
+
+                m.Read(decimal.Parse(txtCod.Text));
+                
+
+                txtNomMedicamento.Text = m.Nombre_Medicamento;
+                txtNomGenerico.Text = m.Nombre_Generico;
+                txtFechaVenci.Text = m.Fec_Vencimiento.ToString();
+                txtLaboratorio.Text = m.Laboratorio;
+
+                lblMessage.Text = "Leido";
+
+            }
+            catch (Exception ex)
+            {
+                lblMessage.Text = "No Leido";
+            }
+
+
         }
     }
 }

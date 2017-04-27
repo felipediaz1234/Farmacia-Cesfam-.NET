@@ -13,62 +13,53 @@ namespace Capa.Negocio
         public decimal Cod_Medicamento { get; set; }
         public string Nombre_Medicamento { get; set; }
         public string Nombre_Generico { get; set; }
-        public DateTime Fec_Vencimiento { get; set; }
+        public string Fec_Vencimiento { get; set; }
         public string Laboratorio { get; set; }
 
         private Conexion c;
         public Medicamento()
         {
             c = new Conexion();
-            this.Init();
+           // this.Init();
         }
 
         private void Init()
         {
-            Nombre_Medicamento = string.Empty;
-            Nombre_Generico = string.Empty;
-            Fec_Vencimiento = DateTime.Now;
-            Laboratorio = string.Empty;
+            //Nombre_Medicamento = string.Empty;
+            //Nombre_Generico = string.Empty;
+           // Fec_Vencimiento = DateTime.Now;
+           // Laboratorio = string.Empty;
         }
 
-        public bool Create()
+        public void Create()
         {
-            try
-            {
-                string insert = "insert into medicamento values('" + Cod_Medicamento + "','" + Nombre_Medicamento + "','" +
-                          Nombre_Generico + "','" + Fec_Vencimiento + "','" + Laboratorio + "')";
+            string insert = "insert into medicamento values('" + Cod_Medicamento + "','" + Nombre_Medicamento + "','" + Nombre_Generico + "','" + Convert.ToDateTime(Fec_Vencimiento).ToString("dd/MM/yyyy")+"','"+Laboratorio+"')";
 
-                Ejecutar(insert);
-                return true;
-            }
-            catch (Exception ex)
-            {
-                return false;
-            }
+            Ejecutar(insert);
 
 
         }
 
-        public Medicamento Read(int id)
+        public Medicamento Read(decimal id)
         {
             Medicamento m = null;
 
-                string select = "select * from medicamento where cod_medicamento = '" + id + "'";
-                c.Con.Open();
-                c.cmd = new OracleCommand(select, c.Con);
+            string select = "select * from medicamento where cod_medicamento = '" + id + "'";
+            c.Con.Open();
+            c.cmd = new OracleCommand(select, c.Con);
 
-                c.dr = c.cmd.ExecuteReader();
-                if (c.dr.Read())
-                {
+            c.dr = c.cmd.ExecuteReader();
+            if (c.dr.Read())
+            {
 
-                    Cod_Medicamento = decimal.Parse(c.dr[0].ToString());
-                    Nombre_Medicamento = c.dr[1].ToString();
-                    Nombre_Generico = c.dr[2].ToString();
-                    Fec_Vencimiento = DateTime.Parse(c.dr[3].ToString());
-                    Laboratorio = c.dr[4].ToString();
+                Cod_Medicamento = decimal.Parse(c.dr[0].ToString());
+                Nombre_Medicamento = c.dr[1].ToString();
+                Nombre_Generico = c.dr[2].ToString();
+                Fec_Vencimiento = c.dr[3].ToString();
+                Laboratorio = c.dr[4].ToString();
 
-                }
-                c.Con.Close();
+            }
+            c.Con.Close();
             return m;
         }
 

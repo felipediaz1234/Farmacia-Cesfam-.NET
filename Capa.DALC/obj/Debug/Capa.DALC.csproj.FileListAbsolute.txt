@@ -2,6 +2,5 @@ C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\bin\Debug\Capa.DALC.dll
 C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\bin\Debug\Capa.DALC.pdb
 C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\bin\Debug\Oracle.ManagedDataAccess.dll
 C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\bin\Debug\Oracle.ManagedDataAccessDTC.dll
-C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\obj\Debug\Capa.DALC.csprojResolveAssemblyReference.cache
 C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\obj\Debug\Capa.DALC.dll
 C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\obj\Debug\Capa.DALC.pdb

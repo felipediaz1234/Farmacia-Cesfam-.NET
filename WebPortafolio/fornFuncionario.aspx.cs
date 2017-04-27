@@ -39,10 +39,9 @@ namespace WebPortafolio
         {
             try
             {
-                Funcionario f = new Funcionario()
-                {
-                    Cod_Funcionario = decimal.Parse(txtCodigo.Text)
-                };
+                Funcionario f = new Funcionario();
+
+                f.Read(decimal.Parse(txtCodigo.Text));                
 
                 txtnombre.Text = f.Nombre_Funcionario;
                 txtPaterno.Text = f.Ap_Paterno;

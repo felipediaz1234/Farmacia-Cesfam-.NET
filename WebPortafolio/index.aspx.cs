@@ -25,7 +25,8 @@ namespace WebPortafolio
 
             if (valido)
             {
-                FormsAuthentication.RedirectFromLoginPage("", false);
+                string url = "menu1.aspx";
+                Response.Redirect(url);
             }
             else
             {

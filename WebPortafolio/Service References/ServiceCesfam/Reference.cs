@@ -153,10 +153,10 @@ namespace WebPortafolio.ServiceCesfam {
         System.Threading.Tasks.Task<bool> DeleteFuncionarioAsync(decimal id);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IServicio/CrearMedicamento", ReplyAction="http://tempuri.org/IServicio/CrearMedicamentoResponse")]
-        bool CrearMedicamento(int id, string nombre, string nomGenerico, System.DateTime fec_vencimiento, string laboratorio);
+        bool CrearMedicamento(decimal id, string nombre, string nomGenerico, string fec_vencimiento, string laboratorio);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IServicio/CrearMedicamento", ReplyAction="http://tempuri.org/IServicio/CrearMedicamentoResponse")]
-        System.Threading.Tasks.Task<bool> CrearMedicamentoAsync(int id, string nombre, string nomGenerico, System.DateTime fec_vencimiento, string laboratorio);
+        System.Threading.Tasks.Task<bool> CrearMedicamentoAsync(decimal id, string nombre, string nomGenerico, string fec_vencimiento, string laboratorio);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -242,11 +242,11 @@ namespace WebPortafolio.ServiceCesfam {
             return base.Channel.DeleteFuncionarioAsync(id);
         }
         
-        public bool CrearMedicamento(int id, string nombre, string nomGenerico, System.DateTime fec_vencimiento, string laboratorio) {
+        public bool CrearMedicamento(decimal id, string nombre, string nomGenerico, string fec_vencimiento, string laboratorio) {
             return base.Channel.CrearMedicamento(id, nombre, nomGenerico, fec_vencimiento, laboratorio);
         }
         
-        public System.Threading.Tasks.Task<bool> CrearMedicamentoAsync(int id, string nombre, string nomGenerico, System.DateTime fec_vencimiento, string laboratorio) {
+        public System.Threading.Tasks.Task<bool> CrearMedicamentoAsync(decimal id, string nombre, string nomGenerico, string fec_vencimiento, string laboratorio) {
             return base.Channel.CrearMedicamentoAsync(id, nombre, nomGenerico, fec_vencimiento, laboratorio);
         }
     }

@@ -39,7 +39,7 @@ namespace WSCesfam
 
         /*Region metodos del medicamento*/
         [OperationContract]
-        bool CrearMedicamento(int id, string nombre, string nomGenerico, DateTime fec_vencimiento, string laboratorio);
+        bool CrearMedicamento(decimal id, string nombre, string nomGenerico, string fec_vencimiento, string laboratorio);
         
     }
 

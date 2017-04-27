@@ -25,7 +25,7 @@
             &nbsp;</p>
         <p>
             <asp:Button ID="btnCrear" runat="server" OnClick="btnCrear_Click" Text="Grabar" />
-            <asp:Button ID="btnBuscar" runat="server" Text="Buscar" />
+            <asp:Button ID="btnBuscar" runat="server" Text="Buscar" OnClick="btnBuscar_Click" />
         </p>
         <p>
             &nbsp;</p>
