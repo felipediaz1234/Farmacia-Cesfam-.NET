@@ -30,12 +30,21 @@ namespace Capa.Negocio
             {
                 //Usuario u = new Usuario();
                 c.Con.Open();
-                string valid = "select * from usuarios where nombre_usuario='" + user + "'and contrasena='" + pass + "'";
-                c.cmd = new OracleCommand(valid, c.Con);
-                c.da = new OracleDataAdapter(c.cmd);
-                c.Con.Close();
+                OracleCommand cm = new OracleCommand();
+                cm.Connection = c.Con;
+                cm.CommandText= "select * from usuarios where nombre_usuario='" + user + "'and contrasena='" + pass + "'";
 
-                return true;
+                OracleDataReader dr = cm.ExecuteReader();
+
+                if (dr.Read())
+                {
+                    return true;
+                }else
+                {
+                    return false;
+                }
+
+                
 
             }
             catch (Exception ex)

@@ -9,3 +9,12 @@ C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\bin\Debug\Capa.Entities.pdb
 C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\obj\Debug\Capa.Negocio.csprojResolveAssemblyReference.cache
 C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\obj\Debug\Capa.Negocio.dll
 C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\obj\Debug\Capa.Negocio.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.Negocio\bin\Debug\Capa.Negocio.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.Negocio\bin\Debug\Capa.Negocio.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.Negocio\bin\Debug\Capa.DALC.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.Negocio\bin\Debug\Capa.Entities.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.Negocio\bin\Debug\Capa.DALC.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.Negocio\bin\Debug\Capa.Entities.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.Negocio\obj\Debug\Capa.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.Negocio\obj\Debug\Capa.Negocio.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.Negocio\obj\Debug\Capa.Negocio.pdb

@@ -4,3 +4,8 @@ C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\bin\Debug\Oracle.ManagedDataAccess.dl
 C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\bin\Debug\Oracle.ManagedDataAccessDTC.dll
 C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\obj\Debug\Capa.DALC.dll
 C:\Temp\Solucion Proyecto Cesfam\Capa.DALC\obj\Debug\Capa.DALC.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.DALC\bin\Debug\Capa.DALC.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.DALC\bin\Debug\Capa.DALC.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.DALC\obj\Debug\Capa.DALC.csprojResolveAssemblyReference.cache
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.DALC\obj\Debug\Capa.DALC.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\Capa.DALC\obj\Debug\Capa.DALC.pdb

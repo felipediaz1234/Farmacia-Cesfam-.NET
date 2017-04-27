@@ -18,7 +18,7 @@ namespace Capa.DALC
 
         public Conexion()
         {
-            Con = new OracleConnection("Data Source=localhost:1521/xe; User Id=cesfam; Password=cesfam;");
+            Con = new OracleConnection("Data Source=localhost:1521/xe; User Id=cesfam1; Password=cesfam;");
         }
     }
 }

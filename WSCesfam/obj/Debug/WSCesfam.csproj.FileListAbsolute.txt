@@ -25,3 +25,28 @@ C:\Temp\Solucion Proyecto Cesfam\WSCesfam\bin\Capa.DALC.pdb
 C:\Temp\Solucion Proyecto Cesfam\WSCesfam\obj\Debug\WSCesfam.csprojResolveAssemblyReference.cache
 C:\Temp\Solucion Proyecto Cesfam\WSCesfam\obj\Debug\WSCesfam.dll
 C:\Temp\Solucion Proyecto Cesfam\WSCesfam\obj\Debug\WSCesfam.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\ApplicationInsights.config
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\WSCesfam.dll.config
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\WSCesfam.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\WSCesfam.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Capa.Entities.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Capa.Negocio.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.Web.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.ApplicationInsights.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Capa.DALC.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Capa.Entities.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Capa.Negocio.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.Web.xml
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Microsoft.ApplicationInsights.xml
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\bin\Capa.DALC.pdb
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\obj\Debug\WSCesfam.csprojResolveAssemblyReference.cache
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\obj\Debug\WSCesfam.dll
+C:\Users\usuario prueba\Documents\Farmacia-Cesfam-.NET\WSCesfam\obj\Debug\WSCesfam.pdb
