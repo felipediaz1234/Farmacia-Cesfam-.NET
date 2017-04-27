@@ -5,6 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
+using Capa.Negocio;
+using System.Web.Security;
+
 namespace WebPortafolio
 {
     public partial class index : System.Web.UI.Page
@@ -16,13 +19,18 @@ namespace WebPortafolio
 
         protected void btnLogIng_Click(object sender, EventArgs e)
         {
-            if (txtUserName.Text == "admin" && txtPassword.Text == "admin")
+            UsuarioDAO u = new UsuarioDAO();
+
+            bool valido = u.ValidarUsusario(txtUserName.Text, txtPassword.Text);
+
+            if (valido)
             {
-                Response.Redirect("menu1.aspx");
+                FormsAuthentication.RedirectFromLoginPage("", false);
             }
             else
             {
-                lblMensaje.Text = "Datos Incorrecto";
+                //lblMessage.ForeColor = System.Drawing.Color.Red;
+                lblMensaje.Text = "Error al ingresar Usuario y/o Contraseña";
             }
 
 
