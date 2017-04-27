@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="menu.master.cs" Inherits="WebPortafolio.menu" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<title>CESFAM</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/estiloo.css">
+<link type="image/png" href="img/favi.png" rel="shortcut icon">  
+</head>
+<body>
+<a class='navbar-brand' href='menu1.aspx'>
+<img src='img/Cesfam.png'>
+</a>
+<header>
+<nav>
+<ul class="nav">
+<li class="dropdown"><a href="menu1.aspx" class="icon home"><span>HOME</span></a></li>
+<li class="dropdown">
+<a>MANTENEDOR</a>
+<ul class="large">
+<li><a href="fornUser.aspx">USUARIO</a></li>
+<li><a href="fornFuncionario.aspx">FUNCIONARIO</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a>FARMACIA</a>
+<ul class="large">
+<li><a href="adStockk.aspx">ADMINISTRAR STOCK</a></li>
+<li><a href="buMedicamento.aspx">BUSCAR MEDICAMENTO</a></li>
+<li><a href="medicamento.aspx">RESERVA MEDICAMENTO</a></li>
+</ul>
+</li>
+<li class="dropdown"><a>MEDICO</a>
+<ul class="large">
+<li><a href="ingReceta.aspx">INGRESAR RECETA</a></li>
+<li><a href="verStock.aspx">VER STOCK</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="cerrar.aspx">SALIR</a></li>
+</ul>
+</nav>
+</header>
+    
+<div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</div>
+</body>
+</html>

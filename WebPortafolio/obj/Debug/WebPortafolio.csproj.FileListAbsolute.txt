@@ -1,0 +1,104 @@
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\ApplicationInsights.config
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\csc.exe
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\vbc.exe
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\WebPortafolio.dll.config
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\WebPortafolio.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\WebPortafolio.pdb
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.Web.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.Web.xml
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\obj\Debug\WebPortafolio.dll
+C:\Users\cristian\Desktop\Solucionfolio\WebPortafolio\obj\Debug\WebPortafolio.pdb
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\ApplicationInsights.config
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\csc.exe
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\vbc.exe
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\WebPortafolio.dll.config
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\WebPortafolio.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\WebPortafolio.pdb
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.Web.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.Web.xml
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\obj\Debug\WebPortafolio.dll
+C:\Users\cristian\Desktop\menu2.0\Solucionfolio\WebPortafolio\obj\Debug\WebPortafolio.pdb
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\ApplicationInsights.config
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\csc.exe
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\vbc.exe
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\VBCSCompiler.exe
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\WebPortafolio.dll.config
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\WebPortafolio.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\WebPortafolio.pdb
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.Web.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.WindowsServer.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.ApplicationInsights.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.Web.xml
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.AI.WindowsServer.xml
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.ApplicationInsights.xml
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\obj\Debug\WebPortafolio.csprojResolveAssemblyReference.cache
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\obj\Debug\WebPortafolio.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\obj\Debug\WebPortafolio.pdb
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Capa.Negocio.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Capa.DALC.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Capa.Entities.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Oracle.ManagedDataAccess.dll
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Capa.Negocio.pdb
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Capa.DALC.pdb
+C:\Temp\Solucion Proyecto Cesfam\WebPortafolio\bin\Capa.Entities.pdb

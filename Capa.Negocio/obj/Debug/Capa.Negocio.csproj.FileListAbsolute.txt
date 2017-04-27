@@ -1,0 +1,11 @@
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\bin\Debug\Capa.Negocio.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\bin\Debug\Capa.Negocio.pdb
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\bin\Debug\Capa.DALC.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\bin\Debug\Capa.Entities.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\bin\Debug\Oracle.ManagedDataAccessDTC.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\bin\Debug\Capa.DALC.pdb
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\bin\Debug\Capa.Entities.pdb
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\obj\Debug\Capa.Negocio.csprojResolveAssemblyReference.cache
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\obj\Debug\Capa.Negocio.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Negocio\obj\Debug\Capa.Negocio.pdb

@@ -1,0 +1,9 @@
+C:\Temp\Solucion Proyecto Cesfam\Capa.Entities\bin\Debug\Capa.Entities.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Entities\bin\Debug\Capa.Entities.pdb
+C:\Temp\Solucion Proyecto Cesfam\Capa.Entities\bin\Debug\Capa.DALC.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Entities\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Entities\bin\Debug\Oracle.ManagedDataAccessDTC.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Entities\bin\Debug\Capa.DALC.pdb
+C:\Temp\Solucion Proyecto Cesfam\Capa.Entities\obj\Debug\Capa.Entities.csprojResolveAssemblyReference.cache
+C:\Temp\Solucion Proyecto Cesfam\Capa.Entities\obj\Debug\Capa.Entities.dll
+C:\Temp\Solucion Proyecto Cesfam\Capa.Entities\obj\Debug\Capa.Entities.pdb
